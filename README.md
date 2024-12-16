@@ -4,6 +4,10 @@ This a demo repository
 
 <br> Welcome to the Demo Repository </br>
 
-<p> Let's learn the basic commands </p>
+<p> Git Basics </p>
+<p> Following are the 3 Git stages: </p>
+<br> 1. modified: </br>
+<br> 2. staged: </br>
+<br> 3. commited: </br>
 
-<br> Git Status: This command is used to check the unchanged changes </br>
+
