@@ -2,4 +2,6 @@
 
 This a demo repository
 
-<br> DEMO </br>
+<br> Welcome to the Demo Repository </br>
+
+<p> Let's learn the basic command </p>
